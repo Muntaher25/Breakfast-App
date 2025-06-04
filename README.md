@@ -15,6 +15,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+This is a basic opening UI of this app
+
+![breakfast](https://github.com/user-attachments/assets/bdb5eacf-c7c0-4a26-bbc9-bdec19671838)
 
 
-![image](https://github.com/user-attachments/assets/12ee6906-589c-4476-a70c-a8b1d892e8c1)
