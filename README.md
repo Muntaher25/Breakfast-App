@@ -17,6 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 This is a basic opening UI of this app
 
-![breakfast](https://github.com/user-attachments/assets/bdb5eacf-c7c0-4a26-bbc9-bdec19671838)
 
+![breakfast (1)](https://github.com/user-attachments/assets/8d60c5bb-56fe-4f72-9e85-248965aa31dc)
 
